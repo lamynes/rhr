@@ -618,7 +618,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
