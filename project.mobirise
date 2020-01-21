@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-20_0919",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -111,10 +111,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pressure-washer-clipart-14-172x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wand-transparent-power-2-382x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "active": true
             },
@@ -936,12 +936,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-172x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wand-transparent-power-2-382x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
