@@ -203,7 +203,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Roush Home &amp; Roof Cleaning provides professional residential and commercial roof cleaning as well as various surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.</p><p><br></p><p>\n</p><p>\n</p><p>We use a cleaning process of soft and chemical washing. Our chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. Our company provides exterior cleaning services for all types of properties from trailers to mansions.</p><p><br></p><p>\n</p><p>\n</p><p>If you are looking for high-quality, reliable, and personal service, you’ve found the right company. Please call or contact us today to schedule an appointment. We welcome new customers.</p><p><br></p><p>\n</p><p>\n</p><p>Bookmark our website. Save our phone number for future service needs.</p>",
+          "text": "<p>Roush Home &amp; Roof Cleaning is a <b><i>Christian Family Owned Business</i></b> providing professional residential and commercial roof cleaning as well as various surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.</p><p><br></p><p>\n</p><p>\n</p><p>We use a cleaning process of soft and chemical washing. Our chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. Our company provides exterior cleaning services for all types of properties from trailers to mansions.</p><p><br></p><p>\n</p><p>\n</p><p>If you are looking for high-quality, reliable, and personal service, you’ve found the right company. Please call or contact us today to schedule an appointment. We welcome new customers.</p><p><br></p><p>\n</p><p>\n</p><p>Bookmark our website. Save our phone number for future service needs.</p>",
           "_tags": [
             "Theme"
           ],
@@ -215,6 +215,9 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left"
+            },
+            "DIV": {
+              "color": "#282828"
             }
           }
         },
