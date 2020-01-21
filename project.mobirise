@@ -13,8 +13,8 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "subtitleFont": "Montserrat",
+        "textFont": "Montserrat",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 18,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -152,7 +152,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Roush Home &amp; Roof",
-          "text": "Residential and Commercial | Roof Cleaning | Surface Cleaning <br>",
+          "text": "Residential &amp; Commercial | Roof Cleaning | Surface Cleaning <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
             "Theme"
@@ -185,8 +185,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "<div>Power Washing Company Serving the Mobile &amp; Baldwin County, Alabama Areas</div>",
@@ -234,7 +234,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Roush Home &amp; Roof.",
+          "text": "Copyright (c) 2020 Roush Home &amp; Roof.",
           "_tags": [
             "Theme"
           ],
@@ -615,6 +615,53 @@
               "text-align": "center",
               "font-size": "20px",
               "color": "#000000"
+            },
+            "H4": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Why Choose Roush Home &amp; Roof Cleaning?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Please call or contact us today to schedule an appointment. We welcome new customers.</p><p>Bookmark our website. Save our phone number for future service needs.<br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-i",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           }
         },
@@ -623,8 +670,8 @@
             "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
