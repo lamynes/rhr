@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Roush Home And Roof",
+        "title": "Roush Home And Roof: ",
         "meta_descr": "Commercial & Residential | Roof Cleaning | Surface Cleaning Power Washing Company Serving the Mobile & Baldwin County, Alabama Areas",
         "header_custom": "",
         "footer_custom": "",
@@ -702,7 +702,8 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-l"
+          "_anchor": "features3-l",
+          "_customCSS": ".card{\nbox-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}"
         },
         {
           "_params": {

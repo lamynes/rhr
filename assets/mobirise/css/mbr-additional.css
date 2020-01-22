@@ -799,6 +799,9 @@ section.form .container {
 #content7-k .lead {
   color: #282828;
 }
+#features3-l .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 #content1-w P {
   text-align: center;
   font-size: 20px;
