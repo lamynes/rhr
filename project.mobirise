@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-20_0919",
+    "name": "Roush Home and Roof",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,14 @@
     "siteFonts": [],
     "uniqCompNum": 33,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-128x72.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
