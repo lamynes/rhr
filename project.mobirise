@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Roush Home & Roof Power Washing",
+        "title": "Roush Home And Roof",
         "meta_descr": "Commercial & Residential | Roof Cleaning | Surface Cleaning Power Washing Company Serving the Mobile & Baldwin County, Alabama Areas",
         "header_custom": "",
         "footer_custom": "",
@@ -878,8 +878,8 @@
     },
     "roof-cleaning.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Roof Cleaning",
+        "meta_descr": "Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.",
+        "title": "Roush Home And Roof: Roof Cleaning",
         "order": 1
       },
       "components": [
