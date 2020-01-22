@@ -242,7 +242,7 @@
               "active": true
             }
           },
-          "title": "<h2>OUR SERVICES INCLUDE</h2>",
+          "title": "<h2>Our Services</h2>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Full-Service Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -909,18 +909,16 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#c0a375"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-section-title H1": {
-              "font-size": "72px"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "4",
@@ -938,7 +936,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "<h1><span style=\"font-weight: normal;\">ROOF CLEANING</span></h1>",
+          "title": "<span style=\"font-weight: normal;\">ROOF CLEANING</span>",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -946,7 +944,7 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-o",
-          "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": "h3 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_styles": {
@@ -955,10 +953,8 @@
             },
             ".mbr-section-title": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-section-title H1": {
-              "font-size": "46px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -967,7 +963,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<h1><b>Residential &amp; Commercial | Roof Cleaning</b></h1>",
+          "title": "Residential &amp; Commercial | Roof Cleaning",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1003,6 +999,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -1011,7 +1010,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Service Includes",
+          "title": "Our Service Includes",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"

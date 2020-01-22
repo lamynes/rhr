@@ -882,14 +882,12 @@ section.form .container {
 }
 #msg-box8-o .mbr-section-title {
   font-size: 60px;
+  color: #c0a375;
 }
 #msg-box8-o .mbr-section-title SPAN {
   font-family: 'Roboto', sans-serif;
 }
-#msg-box8-o .mbr-section-title H1 {
-  font-size: 72px;
-}
-#msg-box8-o h1 {
+#msg-box8-o h3 {
   color: #c0a375;
   text-shadow: 6px 6px 10px #000000;
 }
@@ -899,9 +897,7 @@ section.form .container {
 }
 #header3-p .mbr-section-title {
   font-family: 'Roboto', sans-serif;
-}
-#header3-p .mbr-section-title H1 {
-  font-size: 46px;
+  font-size: 36px;
 }
 #content1-q P {
   text-align: center;
@@ -914,6 +910,9 @@ section.form .container {
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
   text-align: center;
+}
+#header3-s .mbr-section-title {
+  font-size: 36px;
 }
 #content7-r .lead UL {
   font-family: 'Montserrat', sans-serif;
