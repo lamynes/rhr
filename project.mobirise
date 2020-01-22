@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1068,7 +1068,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/82204270-556822921577554-5566130182273630208-n-720x960.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1096,6 +1096,22 @@
                 "text": "We clean .",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sidingafterphoto1-mobilecountyal-roushhomeroofcleaning-1-640x716.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\"><i>Vinyl Siding<br>Cleaning</i></span>",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1",
                 "alt": ""
               }
             ]
