@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -242,7 +242,7 @@
               "active": true
             }
           },
-          "title": "<h2>Our Services</h2>",
+          "title": "<h2><b>Our Services</b></h2>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Full-Service Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
