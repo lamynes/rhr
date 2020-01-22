@@ -920,7 +920,7 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": true,
             "paddingTop": "4",
