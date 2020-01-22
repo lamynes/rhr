@@ -32,11 +32,19 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "": "on",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": "undefined",
-    "pwa-switcher": false
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": true,
+    "siteUrl": "https://roushhomeandroof.com",
+    "pwa-switcher": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126685359-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-126685359-2');\n</script>\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "PWA": {
+      "enabled": false,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-512x512.png",
+      "themeColor": "#c0a375"
+    }
   },
   "pages": {
     "index.html": {
