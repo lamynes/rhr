@@ -847,7 +847,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-218x128.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-229x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1146,7 +1146,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-218x128.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-229x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
