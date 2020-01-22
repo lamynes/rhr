@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -69,7 +69,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\">Roush Home &amp; Roof</span>",
+          "title": "<span style=\"font-weight: normal;\">ROUSH HOME &amp; ROOF</span>",
           "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -91,7 +91,7 @@
               "font-size": "72px"
             }
           },
-          "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}\nh2 {\n  color: white;\n  text-shadow: 2px 2px 4px #000000;\n}"
+          "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_styles": {
@@ -914,6 +914,9 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title H1": {
+              "font-size": "72px"
             }
           },
           "_params": {
@@ -935,14 +938,15 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\">ROOF CLEANING</span>",
+          "title": "<h1><span style=\"font-weight: normal;\">ROOF CLEANING</span></h1>",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-o"
+          "_anchor": "msg-box8-o",
+          "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_styles": {
