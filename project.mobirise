@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-20_0919",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -151,8 +151,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "Roush Home &amp; Roof",
-          "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
+          "title": "<span style=\"font-weight: normal;\">Roush Home &amp; Roof</span>",
+          "text": "<h2><span style=\"font-weight: normal;\">Commercial &amp; Residential | Roof Cleaning | Surface Cleaning</span></h2>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
             "Theme"
@@ -168,8 +168,12 @@
             ".mbr-section-title": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-lead H2": {
+              "font-size": "32px"
             }
-          }
+          },
+          "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_styles": {
@@ -320,7 +324,7 @@
               "active": true
             }
           },
-          "title": "OUR SERVICES INCLUDE",
+          "title": "<h2>OUR SERVICES INCLUDE</h2>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Full-Service Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -618,8 +622,15 @@
             },
             "H4": {
               "font-size": "25px"
+            },
+            ".mbr-section-title H2": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
-          }
+          },
+          "_customCSS": ""
         },
         {
           "_styles": {
@@ -981,14 +992,17 @@
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButton": true,
-            "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1330x858.jpg",
             "parallax": true,
@@ -1051,33 +1065,6 @@
           }
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jobsitephoto1-mobilecountyal-roushhomeroofcleaning-952x716.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-t"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1111,6 +1098,57 @@
           ],
           "_name": "content7",
           "_anchor": "content7-r"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jobsitephoto1-mobilecountyal-roushhomeroofcleaning-952x716.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Please call or contact us today to schedule an appointment. We welcome new customers.</p><p>Bookmark our website. Save our phone number for future service needs.<br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "DIV": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content1-u"
         }
       ]
     }
