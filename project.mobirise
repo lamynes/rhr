@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -75,7 +75,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "title": "ROUSH HOME &amp; ROOF",
           "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
@@ -984,7 +984,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.5"
           },
           "title": "ROOF CLEANING",
           "text": "We specialize",
