@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -868,9 +868,9 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Roush Home & Roof",
               "link": "index.html",
-              "title": "",
+              "title": "Roush Home & Roof",
               "active": true
             },
             "iconFont": {
@@ -885,6 +885,48 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Roush Home &amp; Roof</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>BUSINESS HOURS</strong><br>Mon - Sat8:00 am - 5:00 pm\n<br>SundayClosed<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:(251) 508-6018\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-10",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
@@ -1236,9 +1278,9 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Roush Home & Roof",
               "link": "index.html",
-              "title": "",
+              "title": "Roush Home & Roof",
               "active": true
             },
             "iconFont": {
@@ -1253,6 +1295,48 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Roush Home &amp; Roof</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>BUSINESS HOURS</strong><br>Mon - Sat8:00 am - 5:00 pm\n<br>SundayClosed<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:(251) 508-6018\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-10",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     }
