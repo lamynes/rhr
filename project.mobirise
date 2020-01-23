@@ -50,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Roush Home And Roof: ",
+        "title": "Roush Home And Roof",
         "meta_descr": "Commercial & Residential | Roof Cleaning | Surface Cleaning Power Washing Company Serving the Mobile & Baldwin County, Alabama Areas",
         "header_custom": "",
         "footer_custom": "",
@@ -182,7 +182,7 @@
             "showIcons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -203,8 +203,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Full-Service Power Wash and Surface Cleaning",
+              "title": "Full-Service Power Wash and Surface Cleaning"
             }
           },
           "media2": {
@@ -214,16 +214,19 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Commercial Property Power Washing and Surface Cleaning",
+              "title": "Commercial Property Power Washing and Surface Cleaning"
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/person-apple-laptop-notebook.jpg",
+              "src": "@PROJECT_PATH@/assets/images/82782544-784437835299086-1138245266348965888-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "Residential and Commercial | Roof Cleaning",
+              "title": "Residential and Commercial | Roof Cleaning"
             }
           },
           "media4": {
@@ -250,7 +253,7 @@
               "active": true
             }
           },
-          "title": "<h2><b>Our Services</b></h2>",
+          "title": "<h2><b>Our Services Include</b></h2>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Full-Service Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -258,9 +261,9 @@
           "title2": "Commercial Property Power Washing and Surface Cleaning",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Drive-Thru Areas\n<br>Gum Removal\n<br>Tar Removal\n<br>Grease Removal\n<br>Battery Acid Stain Removal\n<br>Restaurant Surface Cleaning\n<br>Auto Shop Surface Cleaning",
-          "title3": "Web Fonts",
+          "title3": "Residential and Commercial | Roof Cleaning",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Shingle Roof Cleaning\n<br>Tile Roof Cleaning\n<br>Stucco Roof Cleaning\n<br>Vinyl Siding Cleaning\n<br>Driveway Cleaning\n<br>Concrete Cleaning\n<br>Gutter Cleaning\n<br>Awning Cleaning\n<br>Window Cleaning\n<br>Concrete Sealing\n<br>Decks Sealing",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1019,7 +1022,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Our Service Includes",
+          "title": "Our Services Include",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
