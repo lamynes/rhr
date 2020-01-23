@@ -77,7 +77,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "<span style=\"font-weight: normal;\">ROUSH HOME &amp; ROOF</span>",
+          "title": "ROUSH HOME &amp; ROOF",
           "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -986,7 +986,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\">ROOF CLEANING</span>",
+          "title": "ROOF CLEANING",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
