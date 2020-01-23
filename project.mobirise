@@ -1111,7 +1111,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "10",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/82932972-467341527268324-5633989608988475392-n-1-960x720.jpeg",
