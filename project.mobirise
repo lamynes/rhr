@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -599,7 +599,9 @@
           "_anchor": "content7-k",
           "_styles": {
             ".lead UL": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".lead": {
               "color": "#282828"
@@ -1095,7 +1097,8 @@
           "_styles": {
             ".lead UL": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
             }
           }
         },
@@ -1149,7 +1152,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\"><i>Gutter &amp; Awning<br>Cleaning</i></span>",
+                "title": "Gutter &amp; Awning<br>Cleaning",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "We clean .",
