@@ -75,7 +75,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">ROUSH HOME &amp; ROOF</span>",
           "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
@@ -901,7 +901,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-128x93.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -915,18 +915,13 @@
             }
           },
           "text1": "<strong>BUSINESS HOURS</strong><br>Mon - Sat8:00 am - 5:00 pm\n<br>SundayClosed<br>",
-          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:(251) 508-6018\">(251) 508-6018&nbsp;</a><br>",
+          "text2": "<strong>Contacts</strong><br>Phone: (251) 508-6018&nbsp;<br>",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-10",
-          "_styles": {
-            "P": {
-              "font-size": "18px"
-            }
-          }
+          "_anchor": "contacts1-10"
         }
       ]
     },
@@ -1112,7 +1107,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\"><i>Metal Roof<br>Cleaning</i></span>",
+                "title": "Metal Roof<br>Cleaning",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1128,7 +1123,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\"><i>Shingle Roof<br>Cleaning</i></span>",
+                "title": "Shingle Roof<br>Cleaning",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
@@ -1160,7 +1155,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\"><i>Vinyl Siding<br>Cleaning</i></span>",
+                "title": "Vinyl Siding<br>Cleaning",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
