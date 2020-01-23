@@ -901,12 +901,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-128x93.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "width": 128,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Roush Home & Roof",
+              "title": "Roush Home & Roof"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -925,7 +925,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#c0a375"
+              "color": "#ffffff"
             }
           }
         }
@@ -1316,8 +1316,8 @@
               "width": 128,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Roush Home & Roof",
+              "title": "Roush Home & Roof"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1336,7 +1336,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#c0a375"
+              "color": "#ffffff"
             }
           }
         }
