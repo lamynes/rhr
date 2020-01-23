@@ -78,7 +78,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "ROUSH HOME &amp; ROOF",
-          "text": "Commercial &amp; Residential | Roof Cleaning | Surface Cleaning<br>",
+          "text": "Commercial &amp; Residential | Exterior Roof Cleaning &amp; Surface Cleaning<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
             "Theme"
@@ -133,7 +133,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Roush Home &amp; Roof Cleaning is a <b><i>Christian Family Owned Business</i></b> providing professional residential and commercial roof cleaning as well as various surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.</p><p><br></p><p>\n</p><p>\n</p><p>We use a cleaning process of soft and chemical washing. Our chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. Our company provides exterior cleaning services for all types of properties from trailers to mansions.</p><p><br></p><p>\n</p><p>\n</p><p>If you are looking for high-quality, reliable, and personal service, you’ve found the right company. Please call or contact us today to schedule an appointment. We welcome new customers.</p><p><br></p><p>\n</p><p>\n</p><p>Bookmark our website. Save our phone number for future service needs.</p>",
+          "text": "<p>Roush Home &amp; Roof Cleaning is a <b><i>Christian Family Owned Business</i></b> providing professional residential and commercial roof cleaning as well as various exterior surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.</p><p><br></p><p>\n</p><p>\n</p><p>We use a cleaning process of soft and chemical washing. Our chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. Our company provides exterior cleaning services for all types of properties from trailers to mansions.</p><p><br></p><p>\n</p><p>\n</p><p>If you are looking for high-quality, reliable, and personal service, you’ve found the right company. Please call or contact us today to schedule an appointment. We welcome new customers.</p><p><br></p><p>\n</p><p>\n</p><p>Bookmark our website. Save our phone number for future service needs.</p>",
           "_tags": [
             "Theme"
           ],
@@ -255,13 +255,13 @@
           },
           "title": "<h2><b>Our Services Include</b></h2>",
           "subtitle": "Mon - Sat:  8:00 am - 5:00 pm<br>Sunday: Closed",
-          "title1": "Full-Service Power Wash and Surface Cleaning",
+          "title1": "Full-Service Exterior Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Pool Side Cleaning\n<br>Fence Cleaning\n<br>Deck Cleaning\n<br>Brick Cleaning\n<br>Patio Cleaning\n<br>Outdoor Furniture Cleaning\n<br>Stained-Glass Cleaning\n<br>Porch Cleaning\n<br>Outdoor Furniture",
-          "title2": "Commercial Property Power Washing and Surface Cleaning",
+          "title2": "Commercial Property Exterior Power Washing and Surface Cleaning",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Drive-Thru Areas\n<br>Gum Removal\n<br>Tar Removal\n<br>Grease Removal\n<br>Battery Acid Stain Removal\n<br>Restaurant Surface Cleaning\n<br>Auto Shop Surface Cleaning",
-          "title3": "Residential and Commercial | Roof Cleaning",
+          "title3": "Residential and Commercial | Exterior Roof Cleaning",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Shingle Roof Cleaning\n<br>Tile Roof Cleaning\n<br>Stucco Roof Cleaning\n<br>Vinyl Siding Cleaning\n<br>Driveway Cleaning\n<br>Concrete Cleaning\n<br>Gutter Cleaning\n<br>Awning Cleaning\n<br>Window Cleaning\n<br>Concrete Sealing\n<br>Decks Sealing",
           "title4": "Unlimited Sites",
@@ -999,7 +999,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "ROOF CLEANING",
+          "title": "EXTERIOR ROOF CLEANING",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -1026,7 +1026,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Residential &amp; Commercial | Roof Cleaning",
+          "title": "Residential &amp; Commercial | Exterior Roof Cleaning",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1040,7 +1040,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%.</p><p><br></p><p>\n</p><p>We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p>",
+          "text": "<p>Our exterior roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%.</p><p><br></p><p>\n</p><p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p>",
           "_tags": [
             "Theme"
           ],
