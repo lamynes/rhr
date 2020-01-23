@@ -753,7 +753,7 @@ section.form .container {
   font-family: 'Roboto', sans-serif;
 }
 #header1-2 .mbr-section-title SPAN {
-  font-size: 72px;
+  font-size: 60px;
 }
 #header1-2 h1 {
   color: #c0a375;
@@ -889,6 +889,7 @@ section.form .container {
 }
 #msg-box8-o .mbr-section-title SPAN {
   font-family: 'Roboto', sans-serif;
+  font-size: 48px;
 }
 #msg-box8-o h3 {
   color: #c0a375;

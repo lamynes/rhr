@@ -96,7 +96,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "72px"
+              "font-size": "60px"
             }
           },
           "_customCSS": "h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
@@ -926,7 +926,8 @@
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px"
             }
           },
           "_params": {
