@@ -914,14 +914,20 @@
               "size": 0
             }
           },
-          "text1": "<strong>BUSINESS HOURS</strong><br>Mon - Sat8:00 am - 5:00 pm\n<br>SundayClosed<br>",
-          "text2": "<strong>Contacts</strong><br>Phone: (251) 508-6018&nbsp;<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text1": "<i>BUSINESS HOURS</i><br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "<i>CONTACTS</i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<i>LINKS</i><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-10"
+          "_anchor": "contacts1-10",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#c0a375"
+            }
+          }
         }
       ]
     },
@@ -1071,10 +1077,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "<ul><li>Shingle Roof Cleaning\n</li><li>Tile Roof Cleaning</li><li>Stucco Roof Cleaning\n</li></ul><p><br></p>",
+          "text1": "<ul><li>Shingle Roof Cleaning\n</li><li>Tile Roof Cleaning</li><li>Stucco Roof Cleaning</li></ul>",
           "text2": "<ul><li>Metal Roof Cleaning\n</li><li>Vinyl Siding Cleaning</li><li>Driveway Cleaning</li></ul>",
           "text3": "<ul><li>Concrete Cleaning\n</li><li>Gutter Cleaning\n</li><li>Awning Cleaning</li></ul>",
           "_tags": [
@@ -1319,9 +1325,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>BUSINESS HOURS</strong><br>Mon - Sat8:00 am - 5:00 pm\n<br>SundayClosed<br>",
-          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:(251) 508-6018\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text1": "<i>BUSINESS HOURS</i><br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "<i>CONTACTS</i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<i>LINKS</i><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
@@ -1329,7 +1335,8 @@
           "_anchor": "contacts1-10",
           "_styles": {
             "P": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#c0a375"
             }
           }
         }
