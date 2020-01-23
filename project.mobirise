@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Home and Roof",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -910,9 +910,10 @@
               "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof"
+              "title": "Roush Home & Roof",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1322,9 +1323,10 @@
               "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof"
+              "title": "Roush Home & Roof",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1733,9 +1735,10 @@
               "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof"
+              "title": "Roush Home & Roof",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
